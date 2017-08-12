@@ -1,7 +1,7 @@
 # Linux_TC-IP
 
 I learned Linux TCP/IP sources codes and some blog resources on network 
-and hope to stor the process and make some notes.
+and hope to store the process and make some notes.
 
 
 Following is a great blog link:
